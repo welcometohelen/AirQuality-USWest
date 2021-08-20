@@ -4,6 +4,8 @@
 </p>
 <br>
 
+*This was a group project with [Riley Robertson](https://github.com/rileydr) and [Veronica Antonova](https://github.com/cotica)
+
 ## Summary
 </br>
 
